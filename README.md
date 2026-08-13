@@ -14,13 +14,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **[project name / role]**
-- 🌱 I'm currently learning **[technology / skill]**
-- 👯 I'm looking to collaborate on **[type of project]**
-- 🤔 I'm looking for help with **[topic]**
-- 💬 Ask me about **[your expertise]**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **[something interesting about you]**
+🔭 I'm currently working on AI Engineering
+🌱 I'm currently learning Forward Deployed Engineering
+💬 Ask me about Development
+📫 How to reach me: chandratrevedika60@gmail.com
 
 ---
 
