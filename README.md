@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Vedika 👋</h1>
 
-<h3 align="center">AI-Assisted Developer | Prompt Engineering | Data Analytics</h3>
+<h3 align="center">AI ML Developer | Prompt Engineering | Data Analytics</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Engineering+%7C+Prompt+Engineering;Building+with+Claude+%26+Vibe+Coding;2nd-Year+CSE+Student+%7C+Rank+1+%2F+9.73+CGPA" alt="Typing SVG" />
