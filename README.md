@@ -82,6 +82,9 @@
 
 ### 💼 Work Experience
 
+**Application Developer  —  FiftyIsNifty** · 07/2026 – Present USA Remote
+
+
 **Web Developer — Tamarind Tech** · 08/2025 – 10/2025
 - Built data visualization & face detection modules using Python (OpenCV) and MySQL, using AI coding assistants to speed up iteration and debugging.
 
